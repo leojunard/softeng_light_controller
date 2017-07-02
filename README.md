@@ -1,1 +1,2 @@
-READ ME FILE FOR  PROJECT
+# softeng_light_controller
+Light controller using Arduino and Web Application
